@@ -1,0 +1,6 @@
+Delta compression using up to 2 threads.
+Compressing objects: 100% (8/8), done.
+Writing objects: 100% (9/9), 2.06 KiB | 0 bytes/s, done.
+Total 9 (delta 0), reused 0 (delta 0)
+To https://github.com/rengokantai/psscodpjava8.git
+ * [new branch]      master -> master
